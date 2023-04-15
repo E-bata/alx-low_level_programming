@@ -25,4 +25,4 @@ break;
 }
 res = sig * res;
 return (res);
-
+}
